@@ -1,3 +1,5 @@
+<?php wp_footer(); ?>
+
 <footer>
     <div class="container-fluid text-center" style="background-color: #000; color: #fff">
         <div class="footer">
@@ -10,8 +12,6 @@
         </div>
     </div>
 </footer>
-
-<?php wp_footer(); ?>
 
 </body>
 
